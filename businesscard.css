@@ -69,3 +69,13 @@ body {
   color: #ffffff;
   text-decoration: underline;
 }
+
+.email-link {
+  color: #ffffff;
+  text-decoration: underline;
+  transition: color 0.3s ease;
+}
+
+.email-link:hover {
+  color: #f0e68c; /* Gold-ish color for hover effect */
+}
